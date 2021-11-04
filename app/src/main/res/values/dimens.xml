@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_32">32sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+
+    <dimen name="spacing_32">32dp</dimen>
+    <dimen name="spacing_28">28dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_20">20dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_12">12dp</dimen>
+    <dimen name="spacing_8">8dp</dimen>
+    <dimen name="spacing_4">4dp</dimen>
+    <dimen name="spacing_2">2dp</dimen>
+
+    <dimen name="radius_10">10dp</dimen>
+    <dimen name="radius_20">20dp</dimen>
+
+
+    <dimen name="card_height">280dp</dimen>
+    <dimen name="card_width">180dp</dimen>
+    <dimen name="card_image_size">80dp</dimen>
+    <dimen name="card_small_image_size">50dp</dimen>
+
+</resources>
